@@ -1,13 +1,10 @@
-# beauty-chatbot-
-A simple web-based chatbot that gives beauty tips using OpenAI's GPT model.
+# 💄 Beauty Chatbot
+
+This is a beauty chatbot that gives beauty tips using AI.
+
+👉 **[Click here to use the chatbot live]([https://beauty-chatbot.usafarifa.repl.co](https://replit.com/@usafarifa97/Beauty-bot))**
 
 ## Features
-- Built with Python & Flask
-- Styled HTML frontend
-- AI answers via OpenAI API
-
-## Setup
-
-```bash
-pip install -r requirements.txt
-python app.py
+- Made with Python and Flask
+- Chat interface using HTML + CSS
+- Answers powered by OpenAI
